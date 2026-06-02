@@ -16,6 +16,11 @@ This project analyzes Consumer Price Index (CPI) data using Microsoft Excel.
 - Data Cleaning
 - Statistical Analysis
 
+## Key Findings
+- Fuel inflation strongly influences transport inflation.
+- Post-COVID inflation volatility increased.
+- Food inflation showed cyclical patterns.
+
 ## Project Structure
 - Executive Dashboard
 - Data Cleaning & Imputation
